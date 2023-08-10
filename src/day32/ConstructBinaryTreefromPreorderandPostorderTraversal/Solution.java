@@ -1,4 +1,4 @@
-package day32.createTreeFromPreorderAndPostorder;
+package day32.ConstructBinaryTreefromPreorderandPostorderTraversal;
 
 
 /**
